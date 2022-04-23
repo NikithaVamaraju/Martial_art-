@@ -1,0 +1,99 @@
+
+header {
+    height: 100%;
+    width: 100%;
+    float: left;
+    background: black;
+    padding: 0px 15px;
+    color: #fff;
+    border: white;
+    border-style: ridge;
+}
+
+.one {
+    max-width: 100px;
+    float: left;
+    padding: 20px 14px;
+    font-size: 250%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+
+.navigation {
+    margin: 0px;
+    float: right;
+}
+.navigation li {
+    float: left;
+    list-style: none;
+
+}
+body {
+    
+    background-repeat: round;
+  }
+
+.navigation li a {
+    color: white;
+    padding: 25px 20px;
+    display: block;
+    text-align: center;
+    font-size: 150%;
+    text-decoration: none;
+
+}
+
+.hi{
+    border-radius: 3cm;
+    border-style: groove;
+    border-color: black;
+    margin-top: 3cm;
+    margin-right: 2cm;
+    float: right;
+}
+.hello{
+    
+    font-size: 350%;
+    color: white;
+    font-weight: 200;
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+    margin-left: 6cm;
+    margin-bottom: 500%;
+    display: block;
+    margin-bottom: 2em;
+    
+}
+
+.hl{
+    font-size: 250%;
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    border-top: 300cm;
+    margin-top: 300px;
+    display: block;
+    margin-bottom: 2em;
+    
+}
+.hd{
+    font-size: 200%;
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    display: block;
+    text-align: left;
+
+}
+.ni{
+    font-size: 200%;
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+}
+body{
+    background-size: cover;
+}
+
